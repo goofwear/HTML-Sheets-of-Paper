@@ -4,8 +4,7 @@ Word processor in your browser using HTML and CSS (e.g. for invoices, legal noti
 
  * Poor man's Google Docs
  * Like the foundation of Microsoft Word or LibreOffice — but in your web browser
- * Emulates sheets of paper in web documents
- * No skeuomorphic paper
+ * Emulates sheets of paper in web documents (but without skeuomorphic paper textures)
 
 [**Live demo**](https://delight-im.github.io/HTML-Sheets-of-Paper/): Try modifying or printing the page
 
@@ -40,24 +39,6 @@ Word processor in your browser using HTML and CSS (e.g. for invoices, legal noti
  * From the `Margins` list, choose `None` to prevent the browser from overriding our CSS.
  * In the `Options` section, uncheck `Headers and footers` and check `Background colors and images`.
 
-## Third-party components
-
- * Open Sans — Steve Matteson (via Google) — Apache License 2.0
-
 ## License
 
-```
-Copyright (c) delight.im <info@delight.im>
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
+This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
